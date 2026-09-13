@@ -1,0 +1,6 @@
+print("Hello!")
+print("I'm Suvitha Dhamodaran")
+print("From the department of Cycber Security")
+print("I'm passionate about art and crafts")
+print("I'm now studing the linux basics")
+print("I'm now write python code")
